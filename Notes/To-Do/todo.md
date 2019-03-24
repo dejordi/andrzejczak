@@ -1,7 +1,6 @@
-# Lista do zrobienia
+# POLSKI
 
 ## 24 Marca 2019
 
-`Zadanie domowe`
 
-*Umyc zęby*
+*STROINA 12 ZAD 3*

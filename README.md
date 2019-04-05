@@ -24,3 +24,4 @@ Niezbędne dla mnie zadania oczekujące na wykonanie.
 - [ ] Pociągnięcie programowania
 - [ ] Notatki z matematyki wraz z [Michał Nowak](https://github.com/mhnowak)
 - [ ] ???
+- [ ] Profit.

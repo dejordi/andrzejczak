@@ -12,7 +12,7 @@ znajdujące się tutaj notatki pochodzą z moich codziennych zajęć, takich jak
 
 Poniżej znajduje się odnośnik do notatek teorytycznych z kursu prawa jazdy.
 
-- [**Prawo jazdy notatki**](https://github.com/dejordi/andrzejczak/tree/master/prawko)
+- [**Prawo jazdy notatki**](https://github.com/dejordi/andrzejczak/blob/master/prawko/Prawko.md)
 
 
 

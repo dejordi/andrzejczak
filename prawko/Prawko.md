@@ -104,10 +104,13 @@ Zgodnie z ***zasadą pierwszeństwa z prawej strony*** kierujący pojazdem **B**
 
 Najlepiej jest ścinać zakręty (szeroko). Pojawiają się specjalne znaki.
 
-## Znak ustąp pierwszeństwa, droga z pierwszeństwem
 
-![ustap](https://www.zdamyto.com/edu/sites/default/files/styles/medium_290w/public/A-7.png?itok=oFAZJDpk)
 
-*— ustąp pierwszeństwa*
+# Znaki [*lista znaków*](https://www.dlakierowcy.info/s/1450/52227-Lista-znakow-drogowych.htm)
 
-> uwaga na słowa "z"
+
+### Znak ustąp pierwszeństwa, droga z pierwszeństwem
+
+
+> uwaga na słowa "z" np. skrzyżowanie z drogą pierwszeństwem przejazdu
+

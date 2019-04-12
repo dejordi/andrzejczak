@@ -114,3 +114,8 @@ Najlepiej jest ścinać zakręty (szeroko). Pojawiają się specjalne znaki.
 
 > uwaga na słowa "z" np. skrzyżowanie z drogą pierwszeństwem przejazdu
 
+zmia,khdkjfhjsluhf
+
+dhfbksjgdfjk
+
+dbsjfhbkx

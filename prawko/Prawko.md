@@ -98,11 +98,65 @@ Zgodnie z ***zasadą pierwszeństwa z prawej strony*** kierujący pojazdem **B**
 
 *w obu sytuacjach pojazd 1 ustępuje pierwszeństwa pojazdowi 2.*
 
+
+
+### [*Zasady pierwszeństwa ruchu na skrzyżowaniach* ](http://zspigdabrowa.srem.pl/publikacje/brd_2/zasady.htm)
+
+
+
 ### *KIEROWCA PODEJMUJE DECYZJE PRZED WJECHANIEM NA SKRZYŻOWANIE*
 
 > zawsze przepuszczamy autobus w zabudowanym terenie
 
 Najlepiej jest ścinać zakręty (szeroko). Pojawiają się specjalne znaki.
+
+> uwaga na słowa "z" np. skrzyżowanie z drogą pierwszeństwem przejazdu
+
+
+
+## Tramwaj
+
+Stosuje się do znaków pionowych, w przypadku ustępu pierwszeństwa stosuje się do niego.
+
+Tramwaj wyjeżdżając z zajezdni włącza się do ruchu, nie ma pierwszeństwa.
+
+
+
+## W przypadku 2 pierwszeńśtw
+
+Pojadz 1 skręcając w lewo musi zatrzymać się na środku skrzyżowania, przepuścić pojazd 2 i jechać.
+
+
+
+## Skrzyżowanie nierówne
+
+A. Pojazd A jadąc prosto lub skręcając w lewo, musi się zatrzymać, przepuścić pojazd B i jechać.
+
+
+
+B. Pojazd B jadąc w dowolnym kierunku przejeżdża pierwszy 
+
+
+
+> Znaki ustawione są naprzemianlegle (jeśli nie ma tego znaku informującego o innym układzie)
+
+
+
+
+
+## Skrzyżowanie rozbudowane
+
+* Trójkąty na jezdni oznaczają ustąp pierwszeństwa
+
+Pojazd A skręcając w prawo musi zatrzymać się, przepuścić pieszych i rowerzystów i jazda. 
+
+* Czekam tak długo, aż pieszy wejdzie na chodnik
+
+Pojazd A jadąc prosto ma pierwszeństwo nawet przed tramwajem jeżeli pojazd jedzie ***prosto***
+
+Pojazd A skręcając w lewo, musi zatrzymać się na środku skrzyżowania, przepuścić pojazdy jadące z kierunku przeciwnego prosto oraz skręcające w prawo, pieszych i rowerzystów
+
+
 
 
 
@@ -112,4 +166,4 @@ Najlepiej jest ścinać zakręty (szeroko). Pojawiają się specjalne znaki.
 ### Znak ustąp pierwszeństwa, droga z pierwszeństwem
 
 
-> uwaga na słowa "z" np. skrzyżowanie z drogą pierwszeństwem przejazdu
+

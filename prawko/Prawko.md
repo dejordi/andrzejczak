@@ -158,6 +158,45 @@ Pojazd A skręcając w lewo, musi zatrzymać się na środku skrzyżowania, prze
 
 
 
+## Skrzyżowanie bezkolizyjne *(bezwzględne pierwszeństwo)*
+
+**Zielona strzałka** — światło bezkolizyjne
+
+> zawsze jechać zdecydowanie, nawet w przypadku tramwaju ***(butla)***
+
+### Strzałka warunkowego skrętu w prawo
+
+1. muszę zatrzymać się przed sygnalizatorem
+2. muszę przepuścić wszystkich uczestników ruchu
+
+> zatrzymać się przed sygnalizatorem
+
+> zawsze patrzeć na strzałkę
+
+
+
+## Linia bezwzględnego zatrzymania
+
+> dochodzi centralnie do przejscia dla pieszych (samego skrzyzowania)
+
+1. pierwsze zatrzymanie w celu ustąpienia pierwszeństwa pieszemu
+2. drugie zatrzymanie na przejściu przed linią
+3. jeżeli nie ma pieszych zatrzymuje się tylko raz na przejściu przed linią
+
+
+
+## Zawracanie
+
+Na jezdniach jednokierunkowych w lewo skrecamy z lewej krawędzi jezdni, a na drogach dwukierunkowych z środka jezdni.
+
+### Kierujący podczas skręcania lub zawracania może zająć pas 1, 2, 3
+
+> najlepiej zawsze wjeżdżać na ten od prawej strony
+
+
+
+
+
 
 
 # Znaki [*lista znaków*](https://www.dlakierowcy.info/s/1450/52227-Lista-znakow-drogowych.htm)

@@ -213,9 +213,15 @@ W strefie zamieszkania nie musi zostać oznaczony znakiem pionowym.
 
 ### D-42 Obszar zabudowany
 
-Po minęciu znaku, od godziny 5 do 23 jest ograniczenie do 50km/h. Od 23 do 5 60km/h.
+Po minęciu znaku, 
 
-### D-7 Droga szybkiego ruchu
+Od *5 do 23:*  `50km/h`.
+
+Od *23 do 5:*  `60km/h.`
+
+### B-33 Ograniczenie prędkości
+
+Ograniczenie obowiązuje do najbliższego skrzyżowania. Jeżeli jest odwołany znakiem **B-34** *(koniec ograniczenia prędkości)* lub **B-42** *(koniec zakazów, odwołuje wszystkie znaki zakazu)*
 
 
 

@@ -219,11 +219,68 @@ Od *5 do 23:*  `50km/h`.
 
 Od *23 do 5:*  `60km/h.`
 
+### D-43 Koniec obszaru zabudowanego
+
+Uzależniony od typu drogi
+
+> Droga dwujezdniowa *(rozdzielona pasem zieleni lub kostką)* i jednojezdniowa *(jedna duża jezdnia)* musimy być tego św… świa… świadomi
+
+------
+
+### Na drodze dwujezdniowej:
+
+***100km/h`***
+
+*z przyczepą **80km/h***
+
+#### ***znak D-7 (Droga ekspresowa):***
+
+**120km/h**
+
+z przyczepą **80km/h**
+
+#### ***znak D-9 (Autostrada):***
+
+**140km/h**
+
+z przyczepą **80km/h**
+
+------
+
+### Na drodze jednojezdniowej:
+
+***90km/h***
+
+*z przyczepą **70km/h***
+
+#### ***znak D-7 (Droga ekspresowa):***
+
+**100km/h**
+
+z przyczepą **80km/h**
+
+
+
+> Czy na autostradzie wolno jechać 40km/h?
+>
+> tak, jesli pasażer nie ma ukończonych 7 lat, a jedziemy quadem motorem, to nie mozemy przekroczyc 40km/h
+
+
+
+Jeśli pod znakiem znajduje się inny znak ograniczenia prędkości, np. 40. Oznacza to, że ograniczenie to obowiązuje na terenie całej miejscowości.
+
+Jeśli niżej znajduje się znak pojazdu, ograniczenie prędkości (40km/h) obowiązuje tylko ten pojazd.
+
+
 ### B-33 Ograniczenie prędkości
 
 Ograniczenie obowiązuje do najbliższego skrzyżowania. Jeżeli jest odwołany znakiem **B-34** *(koniec ograniczenia prędkości)* lub **B-42** *(koniec zakazów, odwołuje wszystkie znaki zakazu)*
 
+### B-43 Strefa ograniczone prędkości
 
+> skrzyżowanie nie odwołuje ograniczenia, znaki w białej tablicy oznaczają, że znak jest uznawany jako "strefowy?" wtf
+
+*Pojawia się często na osiedlach*
 
 
 
@@ -260,4 +317,14 @@ Po 3 latach Motor poj. 125cm3
 Można kierować pojazdem do 9 osób, łączni
 
 > Po przeładowaniu samochodu o 2 osoby tracimy prawo jazdy od razu
+
+
+
+# Ronda
+
+**W przypadku znaku ustąp pierwszeństwa:**
+
+Pojazd 1 musi przepuścić pojazd 2 *(znajduje się na rondzie i po lewej stronie)*. Po wjechaniu na rondo, przepuszcza pojazd 5 (tramwaj), ma pierwszeństwo przed pojazdem 3 i 4 (samochodem po prawej i tramwajem po prawej, który ma znak ustępu pierwszeństwa)
+
+Na rondo wjeżdżam przed pojazdem 2, znajdując się w rondzie
 

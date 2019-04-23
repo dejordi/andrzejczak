@@ -195,14 +195,29 @@ Na jezdniach jednokierunkowych w lewo skrecamy z lewej krawędzi jezdni, a na dr
 
 
 
+------
+
 
 
 
 
 # Znaki [*lista znaków*](https://www.dlakierowcy.info/s/1450/52227-Lista-znakow-drogowych.htm)
 
+### D-40 Strefa zamieszkania
 
-### Znak ustąp pierwszeństwa, droga z pierwszeństwem
+**Do 20km/h.** Pieszy ma pierwszeństwo korzystać z całej szerokości drogi. Wolno parkować tylko w miejscach do tego wyznaczonych. Wyjeżdżając ze strefy, włączamy się do ruchu. Dziecko nie musi być pod opieką
+
+### A-11a Próg zwalniający
+
+W strefie zamieszkania nie musi zostać oznaczony znakiem pionowym.
+
+### D-42 Obszar zabudowany
+
+Po minęciu znaku, od godziny 5 do 23 jest ograniczenie do 50km/h. Od 23 do 5 60km/h.
+
+### D-7 Droga szybkiego ruchu
+
+
 
 
 
@@ -226,6 +241,8 @@ Masa przyczepy nie może przekraczać masy samochodu.
 
 Uprawnia do jazdy z przyczepą inna niż lekka, o masie **4250Kg** (zestaw)
 
+**Uprawnia nas do jazdy ciągnikiem rolniczym i pojazdem wolnobieżnym na terenie RP**
+
 #### B kat. AM
 
 Prawo jazdy motorowerem do 50m3 max 45km/h 
@@ -234,6 +251,7 @@ Prawo jazdy motorowerem do 50m3 max 45km/h
 
 Po 3 latach Motor poj. 125cm3
 
-Uprawnia nas do jazdy ciągnikiem rolniczym i pojazdem wolnobieżnym na terenie RP
+Można kierować pojazdem do 9 osób, łączni
 
-Można kierować pojazdem do 9 osób, łącznie z kierowcą.
+> Po przeładowaniu samochodu o 2 osoby tracimy prawo jazdy od razu
+

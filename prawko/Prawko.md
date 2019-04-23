@@ -206,3 +206,34 @@ Na jezdniach jednokierunkowych w lewo skrecamy z lewej krawędzi jezdni, a na dr
 
 
 
+
+
+# Uprawnienia
+
+*Pojazd:* 3,500Kg + 750Kg = **4,250Kg**
+
+> 750 — przyczepka lekka
+
+Można ciągnąć inną przyczepkę niż lekka, ale masa zespołu nie może przekroczyć **3,500Kg**
+
+Masa przyczepy nie może przekraczać masy samochodu.
+
+> Przyczepa tylko w wypadku odpowiedniej dokumentacji (przystosowanie pojazdu)
+
+
+
+#### Prawo jazdy B kod 96
+
+Uprawnia do jazdy z przyczepą inna niż lekka, o masie **4250Kg** (zestaw)
+
+#### B kat. AM
+
+Prawo jazdy motorowerem do 50m3 max 45km/h 
+
+#### B kat. A1
+
+Po 3 latach Motor poj. 125cm3
+
+Uprawnia nas do jazdy ciągnikiem rolniczym i pojazdem wolnobieżnym na terenie RP
+
+Można kierować pojazdem do 9 osób, łącznie z kierowcą.
